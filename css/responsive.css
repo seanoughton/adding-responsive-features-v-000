@@ -10,4 +10,8 @@
     right: 4px;
     width: auto;
   }
+
+  #social a {
+    display: inline-block;
+  }
 }
